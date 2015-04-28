@@ -16,3 +16,5 @@ tianboli@usc.edu
 * The idea is very simply, use arrays to store data from excel file and output them into another excel file in order of their IDs.
 * Then, one can use javax library to send email to everyone.
 * One thing to notice: the data is not well-structured. So it requires careful mapping between the names on the survey and names on the blackboard.
+### To Do:
+* In case that you want to calculate how many people did each person reviewed in his/her team, one needs to do mappings from each person to his group members.
