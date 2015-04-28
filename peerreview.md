@@ -10,3 +10,6 @@ tianboli@usc.edu
 3. Read the following two turtorials:　
    * http://howtodoinjava.com/2013/06/19/readingwriting-excel-files-in-java-poi-tutorial/
    * http://www.tutorialspoint.com/java/java_sending_email.htm
+### Algorithm ###
+* The idea is very simply, use 2D arrays to store data from excel file and output them in order of their IDs.
+* One thing to notice: the data is not well-structured. So it requires careful mapping between the names on the survey and names on the blackboard
