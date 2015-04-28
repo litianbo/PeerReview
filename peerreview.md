@@ -1,4 +1,5 @@
 This is a step-by-step instruction on how to run the peer review program.
+===
 # Tianbo Li
 # tianboli@usc.edu
 ## Before you run the program:
